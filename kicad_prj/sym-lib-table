@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Kintex7_disp_out_hdmi-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Kintex7_disp_out_hdmi-eagle-import.kicad_sym")(options "")(descr ""))
+)
